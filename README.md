@@ -28,8 +28,8 @@ Once downloaded (and unzipped, if necessary), all subfolders in the main folder 
 % Replace with location of the downloaded folder
 pth = './boxplot2-pkg/';
 
-addpath(fullfile(pth, 'boxplot2'); 
-addpath(fullfile(pth, 'minmax'); 
+addpath(fullfile(pth, 'boxplot2')); 
+addpath(fullfile(pth, 'minmax')); 
 ```
 
 ## Usage
